@@ -18,5 +18,3 @@
   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img align="center" alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
-
-![Snake animation](https://github.com/brunohs007/brunohs007/blob/output/github-contribution-grid-snake.svg)
