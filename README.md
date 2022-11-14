@@ -2,9 +2,9 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-holanda-bh00/)
 
-![Bruno Holanda´s GitHub stats](https://github-readme-stats.vercel.app/api?username=brunohs007&show_icons=true&theme=radical)
+![Bruno Holanda´s GitHub stats](https://github-readme-stats.vercel.app/api?username=brunohs007&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunohs007&layout=compact&theme=radical)](https://github.com/brunohs007/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunohs007&layout=compact&theme=dark)](https://github.com/brunohs007/github-readme-stats)
 
 ## Tecnologias que eu uso
 
